@@ -1,4 +1,4 @@
-# === CONFIGURACIÓN dasdas ===
+# === CONFIGURACIÓN 1.1 ===
 $botToken = "7715140029:AAEX9sYUmAcB9qmnzNMy9cKzVVBqMMnRoDY"
 $chatId = "6840216425"
 $apiUrl = "https://api.telegram.org/bot$botToken"
